@@ -59,3 +59,22 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run app.py
+
+# Text-to-SQL Generator
+
+## Live Demo
+
+🔗 Streamlit Application:
+https://text-to-sql-generator-esvmhbsavmloktlonbf3ik.streamlit.app/
+
+## Overview
+
+This project converts natural language questions into SQL queries using Generative AI.
+
+## Features
+
+- Natural Language to SQL conversion
+- Structured JSON output
+- Schema-aware SQL generation
+- Ambiguity handling
+- Streamlit UI
