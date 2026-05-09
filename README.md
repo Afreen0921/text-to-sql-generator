@@ -19,15 +19,7 @@ This project converts natural language questions into SQL queries using Generati
 
 ## Project Structure
 
-text-to-sql-generator/
-│
-├── app.py
-├── model.py
-├── prompt.py
-├── parser.py
-├── requirements.txt
-├── README.md
-└── screenshots/
+<img width="755" height="568" alt="image" src="https://github.com/user-attachments/assets/3b39584c-95a5-4092-a003-5416c2e7df55" />
 
 ## Run Locally
 
